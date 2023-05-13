@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "image": "1.jpg",
+      "name": "Кружка черная",
+      "price": 2000,
+      "article": "T1",
+      "available": true,
+      "category": "Кружки"
+    },
+    {
+      "image": "2.jpg",
+      "name": "T-shirt",
+      "price": 3150,
+      "article": "T2",
+      "available": true,
+      "category": "Женские"
+    },
+    {
+      "image": "3.jpg",
+      "name": "Электрочайник",
+      "price": 4200,
+      "article": "T3",
+      "available": false,
+      "category": "Кружки"
+    },
+    {
+      "image": "4.jpg",
+      "name": "Нож Кухонный",
+      "price": 5300,
+      "article": "T4",
+      "available": true,
+      "category": "Кружки"
+    },
+    {
+      "image": "5.jpg",
+      "name": "Утюг",
+      "price": 6500,
+      "article": "T5",
+      "available": false,
+      "category": "Бытовые"
+    },
+    {
+      "image": "6.jpeg",
+      "name": "Фен белый",
+      "price": 8700,
+      "article": "T6",
+      "available": true,
+      "category": "Бытовые"
+    }
+  ]
+}
